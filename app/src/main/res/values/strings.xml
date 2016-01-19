@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <array name="images">
+        <item>@drawable/webonise</item>
+        <item>@drawable/redhat</item>
+        <item>@drawable/feedhenry</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/webonise</item>
+        <item>@drawable/redhat</item>
+        <item>@drawable/feedhenry</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/webonise</item>
+        <item>@drawable/redhat</item>
+        <item>@drawable/feedhenry</item>
+        <item>@drawable/facebook</item>
+    </array>
 </resources>
